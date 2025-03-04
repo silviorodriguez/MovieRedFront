@@ -1,0 +1,47 @@
+.movie-detail {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.movie-info {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    text-align: center;
+}
+
+.movie-info h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.movie-info p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.movie-detail {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.movie-detail-content {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+}
+
